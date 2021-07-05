@@ -1,4 +1,3 @@
-Task0
 
 import random
 
